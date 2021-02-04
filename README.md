@@ -1,1 +1,1 @@
-# simpleCalculator
+# simpleCalculator/android-studio
